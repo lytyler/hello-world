@@ -1,3 +1,3 @@
 This repository is for practicing the GitHub flow.
 
-I am a homeshcolng mom of six trying to become a data analyst. I studied engineering and have recently been working part-time as a tutor.
+I am a homeschooling mom of six trying to become a data analyst. I studied engineering and have recently been working part-time as a tutor.
